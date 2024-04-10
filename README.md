@@ -18,7 +18,7 @@
     <li> MySQL</li> 
     <li>  MS Excel </li> 
     <li>  Data Analysis and Manipulation</li>
-    <li>  Data Visualization</li>
+    <li>  Data Visualization (Power BI)</li>
     <li>  Python Libraries (Numpy, Pandas, Matplotlib) </li>
   </ul>
 
